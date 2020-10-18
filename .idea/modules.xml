@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../strapi-project/.idea/starter-project-gatsby-strapi-portfolio-2020.iml" filepath="$PROJECT_DIR$/../strapi-project/.idea/starter-project-gatsby-strapi-portfolio-2020.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/portfolio-api/.idea/portfolio-api.iml" filepath="$USER_HOME$/Desktop/portfolio-api/.idea/portfolio-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/starter-project-gatsby-strapi-portfolio-2020.iml" filepath="$PROJECT_DIR$/.idea/starter-project-gatsby-strapi-portfolio-2020.iml" />
     </modules>
   </component>
 </project>

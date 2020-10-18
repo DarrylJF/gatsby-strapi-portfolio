@@ -33,7 +33,7 @@ Variables
   --clr-grey-5: hsl(210, 22%, 49%);
   --clr-grey-8: hsl(210, 31%, 80%);
   --clr-grey-9: hsl(212, 33%, 89%);
-  --clr-grey-10: hsl(210, 36%, 96%);
+  --clr-grey-10: hsl(217, 57%, 95%);
   --clr-green-dark: hsl(125, 67%, 35%);
   --clr-red-dark: hsl(360, 67%, 44%);
   --clr-red-light: hsl(360, 71%, 66%);
@@ -1032,7 +1032,7 @@ Blog Template
 .blog-template pre {
   background: #222;
   color: yellow;
-  overflow-x: scroll;
+  overflow-x: auto;
   padding: 1rem 1.5rem;
   border-radius: var(--radius);
 }
